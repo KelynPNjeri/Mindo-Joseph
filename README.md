@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Mindo-Joseph/Mindo-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@mindoJoseph-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mindoJoseph)](https://twitter.com/mindoJoseph) [![Linkedin Badge](https://img.shields.io/badge/-JosephMindo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephmindo/)](https://www.linkedin.com/in/josephmindo/) 
+[![Gmail Badge](https://img.shields.io/badge/-mindo.joseph.mj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mindo.joseph.mj@gmail.com)](mailto:kraghav123@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 my name is Joseph Mindo,
+I'm a software engineer 👨‍💻 who is passionate about web technologies, open source and developer communities.Im always surprised when my tests pass :sweat_smile:
+
+- 🔭 I’m currently working on FullStack development
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: tech, memes, cat videos
+- 😄 Pronouns: he/him
+-  ⚡ Languages: Ruby,Python3
+
+
+
+
