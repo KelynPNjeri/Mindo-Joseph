@@ -12,6 +12,6 @@ I'm a software engineer 👨‍💻 who is passionate about web technologies, op
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Ruby,Python3
 
-![Mindo's github stats](https://github-readme-stats.vercel.app/api?username=Mindo-Joseph&show_icons=true)
+![Mindo's github stats](https://github-readme-stats.vercel.app/api?username=Mindo-Joseph&show_icons=true&&hide=["issues"])
 
 
